@@ -1,0 +1,20 @@
+List of References:
+
+I. MENTHOL
+National Center for Biotechnology Information. (n.d.). (-)-Menthol. PubChem Compound Summary for CID 16666.
+Dylong, D., Hausoul, P. J. C., Palkovits, R., & Eisenacher, M. (2022). Synthesis of (−)-menthol: Industrial synthesis routes and recent development. Flavour and Fragrance Journal, 37(4), 195–209.
+Molecular mechanisms underlying menthol binding and activation of the TRPM8 ion channel. (2020). Science Advances.
+
+II. VANILLIN
+National Center for Biotechnology Information. (n.d.). Vanillin. PubChem Compound Summary for CID 1183.
+Liaqat, F., Xu, L., Khazi, M. I., Ali, S., Ur Rahman, M., & Zhu, D. (2023). Extraction, purification, and applications of vanillin: A review of recent advances and challenges. Industrial Crops and Products, 204, 117372.
+Current status, challenges, and prospects for the biological production of vanillin. (2023). Fermentation, 9(4), 389.
+Kumar, S., Ullah, F., Cao, B., Jiang, D., Keerio, H. A., & Wang, S. (2025). Sustainable vanillin production: Biotechnological advances, catalytic innovations, and integrated assessment. Bioresource Technology, 436, 133014.
+
+III. IBUPROFEN
+National Center for Biotechnology Information. (n.d.). Ibuprofen. PubChem Compound Summary for CID 3672.
+Wright, J. M., et al. (2024). Ibuprofen. In StatPearls. StatPearls Publishing.
+Snead, D. R., & Jamison, T. F. (2015). A three-minute synthesis and purification of ibuprofen: Pushing the limits of continuous-flow processing. Angewandte Chemie International Edition, 54, 983–987.
+Ma, Y., Zhang, X., Zhu, Z., Wang, Y., Gao, J., & Cui, P. (2018). Process intensification and waste minimization for ibuprofen synthesis process. Journal of Cleaner Production, 194, 396–405.
+Qureshi, O., & Dua, A. (2024). Nonsteroidal anti-inflammatory drugs (NSAIDs). In StatPearls. StatPearls Publishing.
+
