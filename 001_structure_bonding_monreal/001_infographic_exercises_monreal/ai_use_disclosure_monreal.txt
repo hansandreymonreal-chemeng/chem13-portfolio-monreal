@@ -1,0 +1,10 @@
+AI Use Disclosure
+
+I used ChatGPT to assist with brainstorming, organizing information, and providing initial content and references for the three organic compound infographics. I was responsible for the overall design, layout, visual presentation, and final editing of the infographics. I also reviewed and fact-checked the information and references provided by AI using reliable sources before including them in the final work. All final design decisions and submitted work were made and finalized by me.
+
+This wording clearly separates AI assistance from your own authorship and emphasizes your verification responsibility, which is consistent with common academic AI-disclosure guidance.
+
+P.S. I have not included the other folders into my repository as I am having problems finding out how to make a file into a folder, apologies.
+
+Hans Andrey R. Monreal
+BS Chemical Engineering 2A
