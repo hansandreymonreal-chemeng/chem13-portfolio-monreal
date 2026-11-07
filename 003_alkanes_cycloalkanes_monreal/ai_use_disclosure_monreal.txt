@@ -1,0 +1,11 @@
+AI USE DISCLOSURE
+
+CHEM 13 – Organic Chemistry
+Activity 3: Name It, Draw It!
+
+Artificial Intelligence (AI), specifically ChatGPT by OpenAI, was used as an auxiliary tool throughout the preparation of this activity. It assisted in reviewing IUPAC nomenclature concepts, checking molecular formula calculations, examining parent-chain and substituent information, and organizing the written explanations and verification details for the naming cards.
+
+The Alkane (https://thealkane.com/) was used as the designated online tool for checking the chemical structures and their corresponding IUPAC names. AI assistance was used for clarification and consistency checking, while the student remains responsible for reviewing the final contents and ensuring the accuracy of the submitted work.
+
+AI Tool Used: ChatGPT (OpenAI)
+Chemical Structure and Nomenclature Checker: The Alkane (https://thealkane.com/)
